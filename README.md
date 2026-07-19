@@ -28,7 +28,7 @@
       </p>
       <p align="left" style="margin:0; font-size:15px;">
         🧑‍🎓 <b>CSE Undergraduate @ SUST</b><br/>
-        🏗️ Building <b>CareerSphere</b> & <b>ExamHub</b> with the MERN + Next.js stack<br/>
+        🏗️ Building production-grade platforms with the MERN + Next.js stack<br/>
         🏆 <b>1,300+ problems solved</b> on Codeforces · LeetCode · CodeChef
       </p>
     </td>
@@ -79,9 +79,12 @@
 
 ### 👨‍💻 About Me
 
-I'm a **CSE undergraduate at Shahjalal University of Science and Technology (SUST)**, Sylhet, Bangladesh — building **production-grade, end-to-end web platforms** using the **MERN stack, Next.js 15, TypeScript, Python, and Java**.
-
-The two projects I'm most proud of are **CareerSphere** (an AI-powered career development platform) and **ExamHub** (a timed-quiz exam practice platform). Outside of web, I split my time between **competitive programming** (1,300+ problems solved) and exploring **Computer Vision** with OpenCV + MediaPipe.
+- 🎓 CSE undergraduate at **Shahjalal University of Science and Technology (SUST)**
+- 💻 Full-Stack Developer specializing in **MERN stack** & **Next.js**
+- 🧠 Strong foundation in **Data Structures & Algorithms**
+- 🚀 Passionate about building **scalable, user-focused web applications**
+- 🤖 Exploring **Computer Vision** with OpenCV & MediaPipe
+- 🎯 Goal: Become a well-rounded **Software Engineer** and ship products that solve real-world problems
 
 <br/>
 
@@ -116,9 +119,10 @@ The two projects I'm most proud of are **CareerSphere** (an AI-powered career de
             &nbsp;
             <a href="https://github.com/Roisul-Shohan/CAREER-SPHERE" target="_blank"><img src="https://img.shields.io/badge/💻_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a>
           </p>
+          <p align="left" style="color:#94A3B8; font-size:13px; margin:0 4px 6px 4px;"><b style="color:#CBD5E1;">Tech Stack:</b> Next.js 15 · React 19 · TypeScript · Tailwind CSS · Prisma · Express · PostgreSQL · Vercel</p>
           <ul align="left" style="color:#CBD5E1;">
-            <li>🤖 AI-assisted interview practice & feedback loops</li>
-            <li>📄 Resume builder with ATS-friendly templates</li>
+            <li>🧠 AI-assisted interview practice with feedback loops</li>
+            <li>📝 Resume builder with ATS-friendly templates</li>
             <li>👥 Community feed with posts, likes & comments</li>
             <li>🔐 Role-based auth, admin dashboards & analytics</li>
           </ul>
@@ -129,20 +133,21 @@ The two projects I'm most proud of are **CareerSphere** (an AI-powered career de
         <div align="center">
           <br/>
           <h3 align="center" style="color:#A78BFA;">📝 ExamHub</h3>
-          <p align="center"><em>Timed-quiz exam practice platform — results tracking, topic-wise analytics & study dashboards.</em></p>
+          <p align="center"><em>Role-based online examination platform — teachers build courses & exams, students enroll, take timed exams, and review results in real time.</em></p>
           <p align="center">
-            <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,express,nodejs,mongodb" alt="stack"/>
+            <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,postgres" alt="stack"/>
           </p>
           <p align="center">
             <a href="https://examhub-five.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="live"/></a>
             &nbsp;
             <a href="https://github.com/Roisul-Shohan/ExamHub" target="_blank"><img src="https://img.shields.io/badge/💻_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a>
           </p>
+          <p align="left" style="color:#94A3B8; font-size:13px; margin:0 4px 6px 4px;"><b style="color:#CBD5E1;">Tech Stack:</b> Next.js 16 · React 19 · TypeScript · Tailwind CSS · PostgreSQL 16 · Cloudinary · Vercel</p>
           <ul align="left" style="color:#CBD5E1;">
-            <li>⏱️ Timed quizzes with auto-submit & focus mode</li>
-            <li>📊 Results, accuracy & topic-wise analytics</li>
-            <li>🧠 Study dashboards built for students</li>
-            <li>🔐 Authenticated sessions, progress saved across devices</li>
+            <li>👨‍🏫 Teacher dashboard — courses, exam builder, auto-grading & PDF grade sheets</li>
+            <li>🎓 Student dashboard — enrollment, timed exams, instant results & review</li>
+            <li>🔐 NextAuth v5 with role-based middleware gating</li>
+            <li>📄 Material uploads via Cloudinary + glassmorphic UI with framer-motion</li>
           </ul>
           <br/>
         </div>
@@ -153,62 +158,11 @@ The two projects I'm most proud of are **CareerSphere** (an AI-powered career de
 
 <br/>
 
-### 🧩 Other Work
+<div align="center">
 
-<table align="center" cellpadding="8" cellspacing="0">
-  <tr>
-    <td width="33%" valign="top">
-      <b>🎓 Learning Management System</b><br/>
-      <sub>Full-stack LMS with instructor & student portals, GridFS video streaming, quizzes & certificates.</sub><br/>
-      <sub>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,ejs" alt="stack" height="22"/>
-      </sub><br/>
-      <sub>🌐 <a href="https://learning-management-system-1-j300.onrender.com/">live</a> · 💻 <a href="https://github.com/Roisul-Shohan/Learning-Management-System">repo</a></sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>🧾 Course Management (Java)</b><br/>
-      <sub>Role-based university course platform — admin, instructor & student flows with enrollment + grading.</sub><br/>
-      <sub>
-        <img src="https://skillicons.dev/icons?i=java,mongodb" alt="stack" height="22"/>
-      </sub><br/>
-      <sub>🌐 <a href="https://course-management-system-vdic.onrender.com/">live</a> · 💻 <a href="https://github.com/Roisul-Shohan/course-management-system">repo</a></sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>👓 ARVision</b><br/>
-      <sub>AR / computer-vision experiments — marker tracking and overlay rendering in Java.</sub><br/>
-      <sub>
-        <img src="https://skillicons.dev/icons?i=java" alt="stack" height="22"/>
-      </sub><br/>
-      <sub>💻 <a href="https://github.com/Roisul-Shohan/ARVision">repo</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <b>💡 Vision-Based LED Control</b><br/>
-      <sub>Gesture-controlled LED system — finger-count detection via OpenCV + MediaPipe Hands, mapped to hardware.</sub><br/>
-      <sub>
-        <img src="https://skillicons.dev/icons?i=python,opencv" alt="stack" height="22"/>
-      </sub><br/>
-      <sub>💻 <a href="https://github.com/Roisul-Shohan/vision-based-LED-control">repo</a></sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>📚 More projects</b><br/>
-      <sub>Coursework, side-projects and DSA experiments live on my GitHub.</sub><br/>
-      <sub>
-        <img src="https://img.shields.io/badge/Explore_all-181717?style=flat-square&logo=github&logoColor=white" alt="more"/>
-      </sub><br/>
-      <sub>💻 <a href="https://github.com/Roisul-Shohan?tab=repositories">github.com/Roisul-Shohan</a></sub>
-    </td>
-    <td width="33%" valign="top">
-      <b>🏗️ Always building</b><br/>
-      <sub>Shipping ideas into polished products, week by week.</sub><br/>
-      <sub>
-        <img src="https://img.shields.io/badge/Open_to_collab-6D28D9?style=flat-square&logo=github&logoColor=white" alt="collab"/>
-      </sub><br/>
-      <sub>📬 <a href="mailto:roisul192@gmail.com">roisul192@gmail.com</a></sub>
-    </td>
-  </tr>
-</table>
+📚 <b>More projects on my GitHub →</b> <a href="https://github.com/Roisul-Shohan?tab=repositories">github.com/Roisul-Shohan</a>
+
+</div>
 
 <br/>
 
