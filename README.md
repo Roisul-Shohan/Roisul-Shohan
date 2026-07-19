@@ -83,7 +83,8 @@
 - 💻 Full-Stack Developer specializing in **MERN stack** & **Next.js**
 - 🧠 Strong foundation in **Data Structures & Algorithms**
 - 🚀 Passionate about building **scalable, user-focused web applications**
-- 🤖 Exploring **Computer Vision** with OpenCV & MediaPipe
+- 🤖 Exploring AI/ML and integrating it into full-stack apps
+- 💻 Deepening system design for new-grad interviews
 - 🎯 Goal: Become a well-rounded **Software Engineer** and ship products that solve real-world problems
 
 <br/>
