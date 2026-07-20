@@ -83,8 +83,7 @@
 - 💻 Full-Stack Developer specializing in **MERN stack** & **Next.js**
 - 🧠 Strong foundation in **Data Structures & Algorithms**
 - 🚀 Passionate about building **scalable, user-focused web applications**
-- 🤖 Exploring AI/ML and integrating it into full-stack apps
-- 💻 Deepening system design for new-grad interviews
+- 🤖 Exploring **Computer Vision** with OpenCV & MediaPipe
 - 🎯 Goal: Become a well-rounded **Software Engineer** and ship products that solve real-world problems
 
 <br/>
@@ -149,6 +148,31 @@
             <li>🎓 Student dashboard — enrollment, timed exams, instant results & review</li>
             <li>🔐 NextAuth v5 with role-based middleware gating</li>
             <li>📄 Material uploads via Cloudinary + glassmorphic UI with framer-motion</li>
+          </ul>
+          <br/>
+        </div>
+      </td>
+      </tr>
+    <tr>
+      <td colspan="2" valign="top" style="background:#0F172A; border-radius:14px;">
+        <div align="center">
+          <br/>
+          <h3 align="center" style="color:#A78BFA;">📚 Learning Management System</h3>
+          <p align="center"><em>Full-stack LMS where instructors publish courses, students stream lessons, and every watched second is tracked — payments, quizzes & certificates built in.</em></p>
+          <p align="center">
+            <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,ejs,tailwind,render" alt="stack"/>
+          </p>
+          <p align="center">
+            <a href="https://learning-management-system-1-j300.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-0F172A?style=for-the-badge&logo=render&logoColor=white" alt="live"/></a>
+            &nbsp;
+            <a href="https://github.com/Roisul-Shohan/Learning-Management-System" target="_blank"><img src="https://img.shields.io/badge/💻_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a>
+          </p>
+          <p align="left" style="color:#94A3B8; font-size:13px; margin:0 4px 6px 4px;"><b style="color:#CBD5E1;">Tech Stack:</b> Node.js · Express · MongoDB · GridFS · EJS · Tailwind CSS · JWT · Render</p>
+          <ul align="left" style="color:#CBD5E1;">
+            <li>🎬 <b>GridFS byte-range streaming</b> — HTTP 206 Partial Content lets students & instructors seek through videos hosted directly in MongoDB</li>
+            <li>📊 <b>Per-content progress tracking</b> — <code>watched_seconds</code> accumulates on every <code>POST /progress</code> with <code>last_watched_at</code> timestamps for accurate completion %</li>
+            <li>💳 <b>Transactional enrollments</b> — Mongoose sessions transfer funds from a hashed bank secret, with pending approvals for instructor gating</li>
+            <li>🏆 <b>Quizzes + admin-approved certificates</b> — auto-graded MCQs, PDF certificate generation & instructor analytics dashboard</li>
           </ul>
           <br/>
         </div>
