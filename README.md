@@ -163,7 +163,7 @@
             <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,ejs,tailwind,render" alt="stack"/>
           </p>
           <p align="center">
-            <a href="https://learning-management-system-1-j300.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-0F172A?style=for-the-badge&logo=render&logoColor=white" alt="live"/></a>
+            <a href="https://learning-management-system-1-j300.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Demo-7C3AED?style=for-the-badge&logo=render&logoColor=white" alt="live"/></a>
             &nbsp;
             <a href="https://github.com/Roisul-Shohan/Learning-Management-System" target="_blank"><img src="https://img.shields.io/badge/💻_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo"/></a>
           </p>
